@@ -33,9 +33,9 @@ Currently, the data collection includes the following fields: celex number, titl
 The repository includes (1) a folder with the `R` scripts used for the project: one each for (a) downloading, (b) parsing, (c) wrangling, (d) aggregating, and (e) visualizing the data. It also includes the (2) resulting data: two big files (in `csv` and `RData` formats) at the level of the individual legislative act and four smaller files with aggregations of the number of legislative acts per year and per semester. In the aggregated files, separate numbers are provided for the number of legislative acts per the intersection of the following three variables: author, type, and new/amending status
 
 ## Results
-Finally, here are some graphs of the evolution of EU's legislative productivity over the past 15 years done with the data
+Finally, here are some graphs of the evolution of EU's legislative productivity over the past 15 years done with the data:
 
-![Directives adopted by the Council and/or the European Parliament](https://github.com/demetriodor/eur-lex/blob/master/figures/F1_noncom_dir_hd.png)
+![Regulations adopted by the Council and/or the European Parliament](https://github.com/demetriodor/eur-lex/blob/master/figures/F2_noncom_reg_hd.png)
 
 
 ![All legislative acts adopted by the European Commission](https://github.com/demetriodor/eur-lex/blob/master/figures/F4_com_all_hd.png)
