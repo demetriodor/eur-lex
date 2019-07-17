@@ -1,6 +1,9 @@
 # EUR-Lex
 Downloading, parsing, aggregating and visualizing data on EU legislation
 
+![alt text](https://github.com/demetriodor/eur-lex/blob/master/figures/F1_noncom_dir_hd.png)
+
+
 ## Purpose
 This repository contain the `R` files used to download, parse, transform, aggregate and visualize data on the legislative acts adopted by the European Union (EU). The data is extracted from the [EUR-Lex](https://eur-lex.europa.eu/) database of EU law. This is work in progress and I plan to add more features and data fields in the future. You are welcome to contribute.
 
@@ -32,7 +35,13 @@ The repository includes (1) a folder with the `R` scripts used for the project: 
 ## Results
 Finally, here are some graphs of the evolution of EU's legislative productivity over the past 15 years done with the data
 
+![Directives adopted by the Council and/or the European Parliament](https://github.com/demetriodor/eur-lex/blob/master/figures/F1_noncom_dir_hd.png)
 
+
+![All legislative acts adopted by the European Commission](https://github.com/demetriodor/eur-lex/blob/master/figures/F4_com_all_hd.png)
+
+
+![New and amending legislation](https://github.com/demetriodor/eur-lex/blob/master/figures/F5_noncom_newacts_hd.png)
 
 
 ## Terms of use
